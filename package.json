@@ -6,11 +6,11 @@
   "homepage": "https://github.com/IhorStorozhok/goit-js-hw-10-food-service",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IhorStorozhok/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/IhorStorozhok/goit-js-hw-10-food-service"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
